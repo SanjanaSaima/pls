@@ -11,26 +11,6 @@ Write programs/structures to test these categories:
 - Heap Dynamic  
   Using any two languages from C++, Java, Python, or JavaScript.
 
-## Directory Structure
-
-├── cpp\_fixed\_heap\_dynamic.cpp
-
-├── cpp\_fixed\_stack\_dynamic.cpp
-
-├── cpp\_heap\_dynamic.cpp
-
-├── cpp\_stack\_dynamic.cpp
-
-├── js\_fixed\_heap\_dynamic.js
-
-├── js\_fixed\_stack\_dynamic.js
-
-├── js\_heap\_dynamic.js
-
-├── js\_stack\_dynamic.js
-
-└── README.md
-
 ## 
 
 ## Category Descriptions
@@ -57,8 +37,6 @@ Write programs/structures to test these categories:
 
 ### C++ (Using g++)
 
-cd cpp
-
 g++ fixed\_stack.cpp \-o fixed\_stack
 
 ./fixed\_stack
@@ -66,8 +44,6 @@ g++ fixed\_stack.cpp \-o fixed\_stack
 Repeat for other `.cpp` files.
 
 ### JavaScript (Using Node.js)
-
-cd js
 
 node fixed\_stack.js
 
